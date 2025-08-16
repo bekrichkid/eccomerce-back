@@ -12,6 +12,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "@tailwindcss/vite": "^4.1.11",
+    "@vitejs/plugin-react": "^5.0.0",
     "daisyui": "^5.0.50",
     "lucide-react": "^0.539.0",
     "react": "^19.1.1",
